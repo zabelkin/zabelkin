@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alex 
-- 👀 I’m interested in analytics a in broad sense
-- 🌱 I’m currently practicing basic data managenet with python, VBA and MS Access, so...
-- 💞️ ...i’m looking to get to another level on professionalism. 
+- 👀 I’m interested in analytics in a broad sense
+- 🌱 I’m currently practicing basic data management with python, VBA and MS Access, so...
+- 💞️ ...i’m looking to get to another level of professionalism. 
 I.e. yes, looking for a job.
 
 - 📫 How to reach me: alex.zabelkin@gmail.com
